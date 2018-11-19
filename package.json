@@ -1,0 +1,19 @@
+{
+	"name": "package-json-changed",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Iran Reyes <iranreyesfleitas@gmail.com> (http://www.iranreyes.com)",
+	"license": "MIT",
+	"dependencies": {
+		"load-json-file": "^5.1.0",
+		"sha": "^2.0.1",
+		"write-json-file": "^3.0.2"
+	},
+	"tracks": {
+		"package-json": "50470d53ecfadd074dcfc5360226f9589e7f1607"
+	}
+}
